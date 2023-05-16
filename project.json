@@ -1,0 +1,12 @@
+{
+    "name": "UnityFoundation.UI",
+    "version": "0.1.0",
+    "package_file": "./Assets/UnityFoundation.UI/package.json",
+    "unity_package": {
+        "name": "unityfoundation-ui",
+        "path": "Builds",
+        "export_folders": [
+            "Assets/UnityFoundation.UI"
+        ]
+    }
+}

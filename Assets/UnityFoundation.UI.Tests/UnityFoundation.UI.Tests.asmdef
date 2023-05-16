@@ -1,0 +1,20 @@
+{
+    "name": "UnityFoundation.UI.Tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f6b7f930073a5fe49b6a5cdfc07cc135",
+        "GUID:56de67b70740b014a8b08bb241006e29",
+        "GUID:1dffb094c2e665346be997395af6021e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

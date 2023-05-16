@@ -1,0 +1,15 @@
+{
+    "name": "coop.unityfoundation.ui",
+    "version": "0.1.0",
+    "displayName": "UnityFoundation UI",
+    "unity": "2021.3",
+    "description": "Esse pacote contém recursos para auxiliar na criação de interfaces de usuário e controle dessas interfaces. Também possui já vários componentes prontos que podem ser utilizados para acelerar o desenvolvimento.",
+    "author": {
+        "name": "Bruno Biluca",
+        "url": "https://brunobiluca.github.io/web/"
+    },
+    "dependencies": {
+        "com.unity.inputsystem": "1.4.4",
+        "com.unity.textmeshpro": "3.0.6"
+    }
+}
