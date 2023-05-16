@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Code%20Coverage-27.0%25-success?style=flat)
+
 # Unity Foundation UI
 
 # View System
