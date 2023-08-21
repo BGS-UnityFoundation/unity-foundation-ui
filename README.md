@@ -2,6 +2,20 @@
 
 # Unity Foundation UI
 
+## Importação e uso da biblioteca
+
+### Importação pelo GitHub
+
+A forma mais simples de importar o pacote e garantir sempre ter uma versão atualizada é por meio da importação pela url do github.
+
+Para isso abra o *Package Manager* e na opção de *Add package from git URL* adicione a seguinte url:
+
+```
+https://github.com/BGS-UnityFoundation/unity-foundation-ui.git?path=/Assets/UnityFoundation.UI
+```
+
+Por meio desse link o Package Manager da Unity irá baixar o a pasta selecionada na raiz do projeto.
+
 # View System
 
 > 💡 Objetivo: Sistema gerenciador de telas, componentes e eventos relacionados a UI em games.
